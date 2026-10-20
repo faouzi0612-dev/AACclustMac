@@ -1,0 +1,10 @@
+citHeader("To cite AACclustMac in publications use:")
+
+bibentry(
+  bibtype  = "Manual",
+  title    = "AACclustMac: Parallel Optimization of Categorical Clustering via an Adaptive Agglomerative Algorithm: Application in Biological Taxonomy for macOS",
+  author   = person("Tarik", "Faouzi", email = "tarik.faouzi@usach.cl",
+                    role = c("aut", "cre")),
+  year     = 2026,
+  note     = "R package version 1.0.0"
+)
